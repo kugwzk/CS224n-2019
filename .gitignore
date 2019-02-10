@@ -1,2 +1,8 @@
 notes/
 slides/
+*.pickle
+*.npy
+*.pyc
+assignment/a2/.idea/
+assignment/a2/utils/datasets/
+assignment/a2/utils/__pycache__/
